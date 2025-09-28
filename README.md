@@ -15,7 +15,7 @@
 - 🌱 I'm currently learning **Full Stack Development, Docker, and Advanced IoT**
 - 👯 I'm looking to collaborate on **IoT solutions and web development projects**
 - 💬 Ask me about **Python, IoT Development, Sensors, Microcontrollers**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **shubham001kv@gmail.com**
 - ⚡ Fun fact: **I enjoy making everyday objects smarter with code and sensors!**
 
 ## 🛠️ Tech Arsenal
@@ -94,13 +94,19 @@ class ShubhamAwasthi:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamawasthi&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
 
-## 🏆 Featured Projects
+## 🎯 My Projects
 
 <div align="center">
+  
+**🚀 Check out my repositories below for exciting IoT and web development projects!**
 
-<!-- Replace with your actual repository names -->
-[![Smart Home IoT](https://github-readme-stats.vercel.app/api/pin/?username=shubhamawasthi&repo=smart-home-iot&theme=tokyonight&hide_border=true)](https://github.com/shubhamawasthi/smart-home-iot)
-[![AI Sensor Network](https://github-readme-stats.vercel.app/api/pin/?username=shubhamawasthi&repo=ai-sensor-network&theme=tokyonight&hide_border=true)](https://github.com/shubhamawasthi/ai-sensor-network)
+*All my projects are available in the repositories section of this profile*
+
+**Featured Areas:**
+- 🏠 **Smart IoT Solutions** - Home automation and sensor integration
+- 🌐 **Web Applications** - Full stack development projects  
+- 🤖 **AI Integration** - Machine learning with hardware
+- 🔧 **Hardware Projects** - Arduino, Raspberry Pi, and ESP32 experiments
 
 </div>
 
@@ -119,7 +125,7 @@ class ShubhamAwasthi:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-awasthi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamawasthi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham001kv@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url)
 
 </div>
