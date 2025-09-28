@@ -62,7 +62,7 @@
 ## 🎯 What I Do
 
 ```python
-class ShubhamAwasthi:
+class shubhamawasthi:
     def __init__(self):
         self.role = "CS Student & IoT Enthusiast"
         self.year = "Third Year B.Tech"
