@@ -86,12 +86,12 @@ class ShubhamAwasthi:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamawasthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamawasthi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamm111-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamm111-developer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamawasthi&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamm111-developer&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
 
 ## 🎯 My Projects
@@ -124,7 +124,7 @@ class ShubhamAwasthi:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-awasthi)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamawasthi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamm111-developer)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham001kv@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url)
 
@@ -133,7 +133,7 @@ class ShubhamAwasthi:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamawasthi&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=shubhamm111-developer&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
 
 <div align="center">
